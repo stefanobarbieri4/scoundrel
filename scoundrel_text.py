@@ -1,6 +1,5 @@
 import random
 
-
 class Card:
     """Represents a single playing card with a value and suit."""
 
